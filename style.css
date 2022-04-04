@@ -1,0 +1,24 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#baby
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    margin-top: 40px;
+    border-radius: 20px;
+    box-shadow: 5px 5spx 5px gray;
+    
+}
